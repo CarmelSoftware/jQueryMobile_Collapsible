@@ -1,5 +1,5 @@
 # jQueryMobile_Collapsible
-##Lists Filterable, Collapsible, and Searchable, Alphabetically Ordered , and with Buttons, Links and Dividers
+##jQuery Mobile App to demonstrate using Collapsible blocks of content, to hide or to show content 
 ####By Carmel Schvartzman
 
 This jQuery Mobile code is the companion for the following Tutorial:
